@@ -8,11 +8,14 @@ __Feel free to add your contributions to this list.__
 * [mshconvert](https://github.com/mikaem/tools/tree/master/mshconvert) Reads a Fluent.msh mesh file
 * [How import a mesh from ICEM] (https://github.com/mikaem/tools/tree/master/mshconvert)
 
-## Turbulence models
+## Physical models
+* tbd
+
+## Boundary conditions
 * tbd
 
 ## Post-processing
 * tbd
 
 ## Other
-
+* tbd
