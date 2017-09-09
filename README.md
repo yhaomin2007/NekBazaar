@@ -5,8 +5,10 @@ NekBazaar has been created to minimize the effort for sharing. The Nek5000 team 
 __Feel free to add your contributions to this list.__
 
 ## Mesh generators and manipulators
-* [mshconvert](https://github.com/mikaem/tools/tree/master/mshconvert) Reads a Fluent.msh mesh file
-* [How import a mesh from ICEM] (https://github.com/mikaem/tools/tree/master/mshconvert)
+* [mshconvert](https://github.com/mikaem/tools/tree/master/mshconvert) - Reads a Fluent .msh mesh file and outputs .rea file
+* [How import a mesh from ICEM](https://github.com/mikaem/tools/tree/master/mshconvert)
+* [HOPR (High Order Preprocessor)](https://www.hopr-project.org) - Open-source tool to generate three-dimensional unstructured high-order meshes
+
 
 ## Physical models
 * tbd
