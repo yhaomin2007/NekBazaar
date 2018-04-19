@@ -17,7 +17,8 @@ __Feel free to add your contributions to this list.__
 * tbd
 
 ## Post-processing
-* tbd
+* [pymech](https://github.com/jcanton/pymech) - Scripts for reading and writing Nek5000 files in Python
+* [nekmatlab](https://github.com/nfabbiane/nekmatlab) - Scripts for reading and writing Nek5000 files in Matlab
 
 ## Other
 * tbd
